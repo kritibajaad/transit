@@ -30,7 +30,17 @@ This project is a  train reservation system that enables customers to register, 
 - **Customer Support**: Browse and search customer questions, send responses, and manage customer inquiries.
 - **Reporting**: Generate reports on train schedules for specific stations and customer reservations on specific transit lines.
 
-### Getting Started
+
+#### Customer
+- **Username**: CuTest
+- **Password**: CuPassword
+
+#### Admin
+- **Username**: AdTest
+- **Password**: AdPassword
+
+#### Representative
+- **Username**: CRTest
 
 #### Prerequisites
 - Java 8 or later
